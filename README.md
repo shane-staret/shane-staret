@@ -5,7 +5,7 @@
 #  🚣‍♀️ Shane Staret
 **`Software Engineer & Analyst`**
 
-Creating a better world is my life's mission! Leveraging my expertise in Python, JavaScript, cloud deployments, data analysis, and systems analysis, I bring this philosophy to life through technical solutions that deliver meaningful, real-world value. Through an objective and strategic approach, I craft robust solutions that have immediate impact and long-term scalability.
+Creating a better world is my life's mission! Leveraging my expertise in Python, JavaScript, cloud deployments, data analysis, and systems analysis, I bring this philosophy to life through technical solutions that deliver meaningful, real-world value. With an objective and strategic approach, I craft robust solutions that have immediate impact and long-term scalability.
 
 I enjoy solving problems through data-driven Python solutions. I am currently deepening my knowledge of Python's data science, machine learning, and artificial intelligence libraries. These libraries have contributed greatly to my existing projects, but I believe you can never stop learning or optimizing enough! Additionally, front-end web development has grown on me considerably, as I hold great appreciation for modules that assist with creating beautiful data visualizations. I also recognize the critical role of clean UI design in ensuring a seamless user experience, and I have implemented these best practices in my own projects.
 
