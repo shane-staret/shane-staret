@@ -3,7 +3,7 @@
 -->
 
 #  🚣‍♀️🚵‍♂️ Shane Staret 🏃‍♂️🧗‍♂️
-**`Software Engineer & Analyst`**
+### **`Software Engineer & Analyst`**
 
 Creating a better world is my life's mission! Leveraging my expertise in Python, JavaScript, cloud deployments, data analysis, and systems analysis, I bring this philosophy to life through technical solutions that deliver meaningful, real-world value. With an objective and strategic approach, I craft robust solutions that have immediate impact and long-term scalability.
 
