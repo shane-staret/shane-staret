@@ -39,7 +39,7 @@ Python
 
 ## 📚 Libraries
 Pandas
-<img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+<img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line.svg"/>
  | Plotly
 <img alt="--Plotly Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
  | SQLAlchemy
@@ -57,7 +57,7 @@ Pandas
  | Selenium
 <img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
  | Scrapy
-<img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png"/>
+<img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
 
 ---
 
