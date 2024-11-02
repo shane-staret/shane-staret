@@ -99,13 +99,13 @@ Git
 
 ## ➕ Additional Technical Skills
 REST APIs
-<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s"/>
+<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
-<img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.JS
-<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
-<img alt="--AI Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/internet-network-technology/artificial-intelligence-ai-icon.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
 <img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src=""/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Agile
