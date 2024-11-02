@@ -81,7 +81,7 @@ AWS
 
 ---
 
-### 🧑‍💻 Development Tools
+## 🧑‍💻 Development Tools
 Git
 <img alt="--Git Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyCharm
@@ -97,8 +97,31 @@ Git
 
 ---
 
-### ➕ Additional Technical Skills
-REST APIs | Node.JS | Express.JS | AI | Machine Learning | Agile | SCRUM | CI/CD | CLI | UML | Systems Analysis | Data Analysis
+## ➕ Additional Technical Skills
+REST APIs
+<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
+<img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.JS
+<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
+<img alt="--AI Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
+<img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Agile
+<img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SCRUM
+<img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CI/CD
+<img alt="--CI/CD Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CLI
+<img alt="--CLI Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; UML
+<img alt="--UML Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Systems Analysis
+<img alt="--Systems Analysis Logo--" width="25px" style="padding-right:10px;" src=""/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Analysis
+<img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src=""/>
 
 ---
 
