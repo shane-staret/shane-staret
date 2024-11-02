@@ -99,11 +99,11 @@ Git
 
 ## ➕ Additional Technical Skills
 REST APIs
-<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://res.cloudinary.com/hevo/images/c_scale,w_440,h_250,dpr_2.625/f_webp,q_auto:best/v1686049471/hevo-learn-1/api_rest/api_rest.png?_i=AA"/>
+<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10329/10329422.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
 <img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.JS
-<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/>
+<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://lh5.googleusercontent.com/proxy/KTMTgxEwIkK5PtvXhl3qRBO_BB797q_ixPFFLP4lLCImNbufF5V6bRvVbBMHSuQ8rF4IiMBjIOW539IuELV-Ir5X7ppI40BUOkd4ytO87v9gDRIgWsm_UXt84aMVd_6v8_pPt_ZACSm-km9RlQ"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
 <img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/8687/8687801.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
@@ -111,7 +111,7 @@ REST APIs
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Agile
 <img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/9752/9752051.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SCRUM
-<img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/8553/8553379.png"/>
+<img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/4922/4922590.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CI/CD
 <img alt="--CI/CD Logo--" width="25px" style="padding-right:10px;" src="https://www.mabl.com/hs-fs/hubfs/CICDBlog.png?width=536&name=CICDBlog.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CLI
