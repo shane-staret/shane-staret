@@ -5,10 +5,9 @@
 #  🚣‍♀️ Shane Staret
 **`Software Engineer & Analyst`**
 
-## 👋 Introduction
-placeholder
+It is my life’s mission to leave the world in a better place than I found it! This mission is the basis for my professional mindset, as I persistently work hard to ensure the success of every project I touch. I seek out and embrace every opportunity to expand my skill set, knowledge, and network. I approach challenges with a strategic, objective mindset, ensuring that solutions are not only effective but also sustainable for the long term. Combined with my expertise in Python, JavaScript, cloud-based deployments, data analysis, and systems analysis, this philosophy has enabled me to establish several successful technical solutions. If you're looking to add someone to your organization with this mentality or converse with someone who loves anything technological, then let’s connect!
 
-## 🗣️ Languages
+### 🗣️ Languages
 Python
 <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   |  HTML
@@ -22,8 +21,17 @@ Python
   |  MATLAB
 <img alt="--MATLAB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 
-## 📚 Libraries
-placeholder
+### 📚 Libraries
+Pandas | Plotly | SQLAlchemy | PyMongo | OpenCV | TensorFlow | Keras | Scikit-learn | Selenium | Scrapy
 
-## 🧑‍💻 Development Tools
-placeholder
+### 📚 Databases
+MySQL | MS SQL Server | PostgreSQL | MongoDB
+
+### 📚 Hosting Platforms
+AWS | Azure
+
+### 🧑‍💻 Development Tools
+Git | PyCharm | Visual Studio Code | IntelliJ | Postman | JIRA
+
+### Additional Technical Skills
+REST APIs | Node.JS | Express.JS | AI | Machine Learning | Agile | SCRUM | CI/CD | CLI | UML | Systems Analysis | Data Analysis
