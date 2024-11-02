@@ -103,7 +103,7 @@ REST APIs
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
 <img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.JS
-<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://lh5.googleusercontent.com/proxy/KTMTgxEwIkK5PtvXhl3qRBO_BB797q_ixPFFLP4lLCImNbufF5V6bRvVbBMHSuQ8rF4IiMBjIOW539IuELV-Ir5X7ppI40BUOkd4ytO87v9gDRIgWsm_UXt84aMVd_6v8_pPt_ZACSm-km9RlQ"/>
+<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
 <img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/8687/8687801.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
