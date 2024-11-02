@@ -82,7 +82,18 @@ AWS
 ---
 
 ### 🧑‍💻 Development Tools
-Git | PyCharm | Visual Studio Code | IntelliJ | Postman | JIRA
+Git
+<img alt="--Git Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+ | PyCharm
+<img alt="--PyCharm Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
+ | Visual Studio Code
+<img alt="--Visual Studio Code Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+ | IntelliJ
+<img alt="--IntelliJ Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+ | Postman
+<img alt="--Postman Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+ | JIRA
+<img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 
 ---
 
