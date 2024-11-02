@@ -24,15 +24,15 @@ If you want to hire someone with this mindset and skill set, let’s chat!
 ## 🗣️ Languages
 Python
 <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  &nbsp;&nbsp;|&nbsp;&nbsp;  HTML
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  HTML
 <img alt="--HTML Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  &nbsp;&nbsp;|&nbsp;&nbsp;  CSS
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  CSS
 <img alt="--CSS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  &nbsp;&nbsp;|&nbsp;&nbsp;  JavaScript
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  JavaScript
 <img alt="--JavaScript Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  &nbsp;&nbsp;|&nbsp;&nbsp;  Java
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  Java
 <img alt="--Java Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  &nbsp;&nbsp;|&nbsp;&nbsp;  MATLAB
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  MATLAB
 <img alt="--MATLAB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 
 ---
@@ -40,23 +40,23 @@ Python
 ## 📚 Libraries
 Pandas
 <img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Plotly
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Plotly
 <img alt="--Plotly Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; SQLAlchemy
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SQLAlchemy
 <img alt="--SQLAlchemy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; PyMongo
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyMongo
 <img alt="--PyMongo Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; OpenCV
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; OpenCV
 <img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; TensorFlow
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; TensorFlow
 <img alt="--TensorFlow Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Keras
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Keras
 <img alt="--Keras Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Scikit-learn
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scikit-learn
 <img alt="--Scikit-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Selenium
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Selenium
 <img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Scrapy
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scrapy
 <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
 
 ---
@@ -64,11 +64,11 @@ Pandas
 ## 💾 Databases
 MySQL
 <img alt="--MySQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; MS SQL Server
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MS SQL Server
 <img alt="--MS SQL Server Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; PostgreSQL
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PostgreSQL
 <img alt="--PostgreSQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; MongoDB
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MongoDB
 <img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 
 ---
@@ -76,7 +76,7 @@ MySQL
 ## 🏢 Hosting Platforms
 AWS
 <img alt="--AWS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Azure
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Azure
 <img alt="--Azure Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
 
 ---
@@ -84,15 +84,15 @@ AWS
 ### 🧑‍💻 Development Tools
 Git
 <img alt="--Git Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; PyCharm
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyCharm
 <img alt="--PyCharm Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Visual Studio Code
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Visual Studio Code
 <img alt="--Visual Studio Code Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; IntelliJ
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; IntelliJ
 <img alt="--IntelliJ Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; Postman
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Postman
 <img alt="--Postman Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
- &nbsp;&nbsp;|&nbsp;&nbsp; JIRA
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; JIRA
 <img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 
 ---
