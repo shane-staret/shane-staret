@@ -3,6 +3,7 @@
 -->
 
 #  🚣‍♀️ Shane Staret
+**`Software Engineer & Analyst`**
 
 ## 👋 Introduction
 placeholder
