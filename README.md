@@ -99,13 +99,13 @@ Git
 
 ## ➕ Additional Technical Skills
 REST APIs
-<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s"/>
+<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://res.cloudinary.com/hevo/images/c_scale,w_440,h_250,dpr_2.625/f_webp,q_auto:best/v1686049471/hevo-learn-1/api_rest/api_rest.png?_i=AA"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
 <img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.JS
 <img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
-<img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4N_soUiGggkq4TxayU7O_echs7FO8ISMD5w&s"/>
+<img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/8687/8687801.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
 <img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2464/2464176.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Agile
