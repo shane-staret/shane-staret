@@ -13,13 +13,17 @@ I enjoy solving problems through data-driven Python solutions. I am currently de
 
 If you want to hire someone with this mindset and skill set, let’s chat!
 
-### 🌟 Notable Achievements 🌟
+---
+
+## 🌟 Notable Achievements 🌟
 * Enabled business teams to efficiently access key metrics and allocate more time to mission-critical tasks by transforming manual reporting processes into automated solutions that leverage Python, REST APIs, SQL, and Azure
 * Co-led a team of 6 developers in the implementation of Python data extraction, facial recognition, and AI/machine learning libraries to evaluate 219 websites for potential human trafficking victims, resulting in the analysis of 456K profiles
 * Formulated the REST API and no-code back-end architecture for a website that captures and visualizes worldwide reports on drug trafficking and overdose incidents
 * Individually architected, developed, and documented 80 Python solutions that gathered, cleaned, analyzed, and stored 20M+ records throughout AWS S3, MongoDB, SQL, and CSV files
 
-### 🗣️ Languages
+---
+
+## 🗣️ Languages
 Python
 <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   |  HTML
@@ -33,20 +37,32 @@ Python
   |  MATLAB
 <img alt="--MATLAB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 
-### 📚 Libraries
+---
+
+## 📚 Libraries
 Pandas | Plotly | SQLAlchemy | PyMongo | OpenCV | TensorFlow | Keras | Scikit-learn | Selenium | Scrapy
 
-### 💾 Databases
+---
+
+## 💾 Databases
 MySQL | MS SQL Server | PostgreSQL | MongoDB
 
-### 🏢 Hosting Platforms
+---
+
+## 🏢 Hosting Platforms
 AWS | Azure
+
+---
 
 ### 🧑‍💻 Development Tools
 Git | PyCharm | Visual Studio Code | IntelliJ | Postman | JIRA
 
+---
+
 ### ➕ Additional Technical Skills
 REST APIs | Node.JS | Express.JS | AI | Machine Learning | Agile | SCRUM | CI/CD | CLI | UML | Systems Analysis | Data Analysis
+
+---
 
 #### 🗒️ Notes
 * In November 2024, I consolidated **_ALL_** of my employer and school non-enterprise GitHub accounts into this one. Previously, this account was solely used for personal projects and some school projects.
