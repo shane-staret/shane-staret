@@ -10,7 +10,9 @@ placeholder
 
 ## 🧑‍💻 Development Tools
 ### 🗣️ Languages
-placeholder
+Python
+<img align="left" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+Python, HTML, CSS, JavaScript, Java, MATLAB
 
 ### 📚 Libraries
 placeholder
