@@ -11,8 +11,8 @@ placeholder
 ## 🧑‍💻 Development Tools
 ### 🗣️ Languages
 Python
-<img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-Python, HTML, CSS, JavaScript, Java, MATLAB
+<img alt="<Python-Logo>" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+HTML, CSS, JavaScript, Java, MATLAB
 
 ### 📚 Libraries
 placeholder
