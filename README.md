@@ -99,29 +99,29 @@ Git
 
 ## ➕ Additional Technical Skills
 REST APIs
-<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png"/>
+<img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
 <img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.JS
 <img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
-<img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/internet-network-technology/artificial-intelligence-ai-icon.png"/>
+<img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4N_soUiGggkq4TxayU7O_echs7FO8ISMD5w&s"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
-<img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2464/2464176.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Agile
-<img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/9752/9752051.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SCRUM
-<img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/8553/8553379.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CI/CD
-<img alt="--CI/CD Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--CI/CD Logo--" width="25px" style="padding-right:10px;" src="https://www.mabl.com/hs-fs/hubfs/CICDBlog.png?width=536&name=CICDBlog.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CLI
-<img alt="--CLI Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--CLI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/8099/8099549.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; UML
-<img alt="--UML Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--UML Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Systems Analysis
-<img alt="--Systems Analysis Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--Systems Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/research-and-analysis-glyph-2/64/business-analysis-data-visualisation-system-512.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Analysis
-<img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src=""/>
+<img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/>
 
 ---
 
