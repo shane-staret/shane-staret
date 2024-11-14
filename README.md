@@ -14,7 +14,7 @@ If you want to hire someone with this mindset and skill set, let’s chat!
 ---
 
 ## 🌟 Notable Achievements 🌟
-* Enabled business teams to efficiently access key metrics and allocate more time to mission-critical tasks by transforming manual reporting processes into automated solutions that leverage Python, REST APIs, SQL, and Azure
+* Enabled business teams to efficiently access key metrics and allocate more time to mission-critical tasks by transforming manual reporting processes into automated solutions that leverage Python, REST APIs, SQL, ELT, and Azure Synapse Analytics
 * Co-led a team of 6 developers in the implementation of Python data extraction, facial recognition, and AI/machine learning libraries to evaluate 219 websites for potential human trafficking victims, resulting in the analysis of 456K profiles
 * Formulated the REST API and no-code back-end architecture for a website that captures and visualizes worldwide reports on drug trafficking and overdose incidents
 * Individually architected, developed, and documented 80 Python solutions that gathered, cleaned, analyzed, and stored 20M+ records throughout AWS S3, MongoDB, SQL, and CSV files
