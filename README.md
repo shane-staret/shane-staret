@@ -124,6 +124,14 @@ REST APIs
 <img alt="--Systems Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1443/1443162.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Analysis
 <img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MS Office
+<img alt="--MS Office Logo--" width="25px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Linux
+<img alt="--Linux Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ELT
+<img alt="--ELT Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ETL
+<img alt="--ETL Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/>
 
 ---
 
