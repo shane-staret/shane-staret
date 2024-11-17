@@ -58,6 +58,8 @@ Pandas
 <img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scrapy
 <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scrapy
+<img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
 
 ---
 
