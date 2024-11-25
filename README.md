@@ -34,6 +34,8 @@ Python
 <img alt="--Java Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  MATLAB
 <img alt="--MATLAB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  C
+<img alt="--C Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 
 ---
 
@@ -60,6 +62,16 @@ Pandas
 <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PySpark
 <img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
+
+---
+
+## 🧩 Frameworks
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; React.js
+<img alt="--React.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AngularJS
+<img alt="--AngularJS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.js
+<img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/>
 
 ---
 
@@ -104,8 +116,8 @@ REST APIs
 <img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10329/10329422.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
 <img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.JS
-<img alt="--Express.JS Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NPM
+<img alt="--NPM Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
 <img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/8687/8687801.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
@@ -130,6 +142,10 @@ REST APIs
 <img alt="--Linux Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ELT/ETL
 <img alt="--ELT Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/9850/9850879.png"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Figma
+<img alt="--Figma Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Zeplin
+<img alt="--Zeplin Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zeplin-icon.png"/>
 
 ---
 
