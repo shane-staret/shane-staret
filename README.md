@@ -42,6 +42,8 @@ Python
 ## 📚 Libraries
 Pandas
 <img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NumPy
+<img alt="--NumPy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Plotly
 <img alt="--Plotly Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SQLAlchemy
