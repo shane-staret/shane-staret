@@ -92,6 +92,12 @@ AWS
 <img alt="--AWS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Azure
 <img alt="--Azure Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Kubernetes
+<img alt="--Kubernetes Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Docker
+<img alt="--Docker Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; DigitalOcean
+<img alt="--DigitalOcean Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/>
 
 ---
 
