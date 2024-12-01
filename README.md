@@ -56,6 +56,8 @@ Pandas
 <img alt="--Keras Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scikit-learn
 <img alt="--Scikit-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SciPy
+<img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Selenium
 <img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scrapy
@@ -128,6 +130,8 @@ REST APIs
 <img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/8687/8687801.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
 <img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2464/2464176.png"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NGINX
+<img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Agile
 <img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/9752/9752051.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SCRUM
