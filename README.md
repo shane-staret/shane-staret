@@ -46,7 +46,7 @@ Pandas
 <img alt="--NumPy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Plotly
 <img alt="--Plotly Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SQLAlchemy
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SQLAlchemy\
 <img alt="--SQLAlchemy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyMongo
 <img alt="--PyMongo Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
