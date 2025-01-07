@@ -72,7 +72,7 @@ Pandas
 ---
 
 ## 🧩 Frameworks
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; React.js
+React.js
 <img alt="--React.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AngularJS
 <img alt="--AngularJS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
