@@ -44,16 +44,12 @@ React.js <img alt="--React.js Logo--" width="25px" style="padding-right:10px;" s
 
 <br />
 
----
-
 ## 💾 Databases
 |  |  |  |  |
 | -------- | ------- | ------- | ------- |
 MySQL <img alt="--MySQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> | MS SQL Server <img alt="--MS SQL Server Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/> | PostgreSQL <img alt="--PostgreSQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> | MongoDB <img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/> |
 
 <br />
-
----
 
 ## 🏢 Hosting Platforms
 |  |  |  |  |  |
@@ -62,8 +58,6 @@ AWS <img alt="--AWS Logo--" width="25px" style="padding-right:10px;" src="https:
 
 <br />
 
----
-
 ## 🧑‍💻 Development Tools
 |  |  |  |  |  |  |
 | -------- | ------- | ------- | ------- | ------- | ------- |
@@ -71,8 +65,6 @@ Git <img alt="--Git Logo--" width="25px" style="padding-right:10px;" src="https:
 <img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/> |
 
 <br />
-
----
 
 ## ➕ Additional Technical Skills
 |  |  |  |  |  |  |
