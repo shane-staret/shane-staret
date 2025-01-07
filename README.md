@@ -35,7 +35,7 @@ Python
   &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  MATLAB
 <img alt="--MATLAB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
   &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  C
-<img alt="--C Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/><br /><br />
+<img alt="--C Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/><br /><br /><br />
 
 ---
 
@@ -77,7 +77,7 @@ React.js
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; AngularJS
 <img alt="--AngularJS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
 &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Express.js
-<img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/><br /><br />
+<img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/><br /><br /><br />
 
 ---
 
@@ -103,7 +103,7 @@ AWS
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Docker
 <img alt="--Docker Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; DigitalOcean
-<img alt="--DigitalOcean Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/><br /><br />
+<img alt="--DigitalOcean Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/><br /><br /><br />
 
 ---
 
