@@ -24,17 +24,17 @@ If you want to hire someone with this mindset and skill set, let’s chat!
 ## 🗣️ Languages
 Python
 <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  HTML
+  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  HTML
 <img alt="--HTML Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  CSS
 <img alt="--CSS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  JavaScript
+  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  JavaScript
 <img alt="--JavaScript Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  Java
+  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  Java
 <img alt="--Java Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  MATLAB
+  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  MATLAB
 <img alt="--MATLAB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  C
+  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  C
 <img alt="--C Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 
 ---
@@ -42,31 +42,31 @@ Python
 ## 📚 Libraries
 Pandas
 <img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NumPy
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; NumPy
 <img alt="--NumPy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Plotly
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Plotly
 <img alt="--Plotly Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SQLAlchemy
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; SQLAlchemy
 <img alt="--SQLAlchemy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyMongo
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; PyMongo
 <img alt="--PyMongo Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; FastAPI
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; FastAPI
 <img alt="--FastAPI Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/><br /><br /><br />
 OpenCV
 <img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; TensorFlow
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; TensorFlow
 <img alt="--TensorFlow Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Keras
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Keras
 <img alt="--Keras Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scikit-learn
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Scikit-learn
 <img alt="--Scikit-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SciPy
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; SciPy
 <img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Selenium
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Selenium
 <img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/><br /><br /><br />
 Scrapy
 <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PySpark
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; PySpark
 <img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
 
 ---
@@ -74,9 +74,9 @@ Scrapy
 ## 🧩 Frameworks
 React.js
 <img alt="--React.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AngularJS
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; AngularJS
 <img alt="--AngularJS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Express.js
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Express.js
 <img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/>
 
 ---
@@ -84,11 +84,11 @@ React.js
 ## 💾 Databases
 MySQL
 <img alt="--MySQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MS SQL Server
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; MS SQL Server
 <img alt="--MS SQL Server Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PostgreSQL
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; PostgreSQL
 <img alt="--PostgreSQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MongoDB
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; MongoDB
 <img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 
 ---
@@ -96,13 +96,13 @@ MySQL
 ## 🏢 Hosting Platforms
 AWS
 <img alt="--AWS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Azure
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Azure
 <img alt="--Azure Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Kubernetes
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Kubernetes
 <img alt="--Kubernetes Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Docker
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Docker
 <img alt="--Docker Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; DigitalOcean
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; DigitalOcean
 <img alt="--DigitalOcean Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/>
 
 ---
@@ -110,15 +110,15 @@ AWS
 ## 🧑‍💻 Development Tools
 Git
 <img alt="--Git Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyCharm
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; PyCharm
 <img alt="--PyCharm Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Visual Studio Code
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Visual Studio Code
 <img alt="--Visual Studio Code Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; IntelliJ
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; IntelliJ
 <img alt="--IntelliJ Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Postman
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Postman
 <img alt="--Postman Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; JIRA
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; JIRA
 <img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 
 ---
@@ -126,39 +126,39 @@ Git
 ## ➕ Additional Technical Skills
 REST APIs
 <img alt="--REST APIs Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10329/10329422.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Node.JS
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Node.JS
 <img alt="--Node.JS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NPM
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; NPM
 <img alt="--NPM Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; AI
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; AI
 <img alt="--AI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/8687/8687801.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Machine Learning
 <img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2464/2464176.png"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NGINX
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; NGINX
 <img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/><br /><br /><br />
 Agile
 <img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/9752/9752051.png"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SCRUM
+ &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; SCRUM
 <img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/4922/4922590.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CI/CD
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; CI/CD
 <img alt="--CI/CD Logo--" width="25px" style="padding-right:10px;" src="https://www.mabl.com/hs-fs/hubfs/CICDBlog.png?width=536&name=CICDBlog.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CLI
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; CLI
 <img alt="--CLI Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/8099/8099549.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; UML
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; UML
 <img alt="--UML Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Systems Analysis
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Systems Analysis
 <img alt="--Systems Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1443/1443162.png"/><br /><br /><br />
 Data Analysis
 <img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MS Office
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; MS Office
 <img alt="--MS Office Logo--" width="25px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Linux
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Linux
 <img alt="--Linux Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ELT/ETL
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; ELT/ETL
 <img alt="--ELT Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/9850/9850879.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Figma
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Figma
 <img alt="--Figma Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Zeplin
+&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Zeplin
 <img alt="--Zeplin Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zeplin-icon.png"/>
 
 ---
