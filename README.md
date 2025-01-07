@@ -20,6 +20,8 @@ If you want to hire someone with this mindset and skill set, let’s chat!
 * Individually architected, developed, and documented 80 Python solutions that gathered, cleaned, analyzed, and stored 20M+ records throughout AWS S3, MongoDB, SQL, and CSV files<br /><br /><br />
 
 ---
+| Python <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> | HTML <img alt="--HTML Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> | CSS <img alt="--CSS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> |
+
 
 ## 🗣️ Languages
 Python
