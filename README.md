@@ -119,7 +119,7 @@ Git
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Postman
 <img alt="--Postman Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; JIRA
-<img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/><br />
+<img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 
 ---
 
