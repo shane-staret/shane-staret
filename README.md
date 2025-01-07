@@ -17,7 +17,7 @@ If you want to hire someone with this mindset and skill set, let’s chat!
 * Enabled business teams to efficiently access key metrics and allocate more time to mission-critical tasks by transforming manual reporting processes into automated solutions that leverage Python, REST APIs, SQL, ELT, and Azure Synapse Analytics
 * Co-led a team of 6 developers in the implementation of Python data extraction, facial recognition, and AI/machine learning libraries to evaluate 219 websites for potential human trafficking victims, resulting in the analysis of 456K profiles
 * Formulated the REST API and no-code back-end architecture for a website that captures and visualizes worldwide reports on drug trafficking and overdose incidents
-* Individually architected, developed, and documented 80 Python solutions that gathered, cleaned, analyzed, and stored 20M+ records throughout AWS S3, MongoDB, SQL, and CSV files<br /><br />
+* Individually architected, developed, and documented 80 Python solutions that gathered, cleaned, analyzed, and stored 20M+ records throughout AWS S3, MongoDB, SQL, and CSV files<br /><br /><br />
 
 ---
 
@@ -67,7 +67,7 @@ OpenCV
 Scrapy
 <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; PySpark
-<img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/><br /><br />
+<img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/><br /><br /><br />
 
 ---
 
@@ -89,7 +89,7 @@ MySQL
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; PostgreSQL
 <img alt="--PostgreSQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; MongoDB
-<img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/><br /><br />
+<img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/><br /><br /><br />
 
 ---
 
@@ -119,7 +119,7 @@ Git
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Postman
 <img alt="--Postman Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; JIRA
-<img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/><br /><br />
+<img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/><br /><br /><br />
 
 ---
 
@@ -159,7 +159,7 @@ Data Analysis
 &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Figma
 <img alt="--Figma Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp; Zeplin
-<img alt="--Zeplin Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zeplin-icon.png"/><br /><br />
+<img alt="--Zeplin Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zeplin-icon.png"/><br /><br /><br />
 
 ---
 
