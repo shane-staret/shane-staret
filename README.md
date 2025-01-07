@@ -28,8 +28,6 @@ Python <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="
 
 <br />
 
----
-
 ## 📚 Libraries
 |  |  |  |  |  |  |
 | -------- | ------- | ------- | ------- | ------- | ------- |
@@ -38,8 +36,6 @@ OpenCV <img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="
 Scrapy <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/> | PySpark <img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/> |
 
 <br />
-
----
 
 ## 🧩 Frameworks
 |  |  |  |
