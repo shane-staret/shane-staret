@@ -17,7 +17,7 @@ If you want to hire someone with this mindset and skill set, let’s chat!
 * Enabled business teams to efficiently access key metrics and allocate more time to mission-critical tasks by transforming manual reporting processes into automated solutions that leverage Python, REST APIs, SQL, ELT, and Azure Synapse Analytics
 * Co-led a team of 6 developers in the implementation of Python data extraction, facial recognition, and AI/machine learning libraries to evaluate 219 websites for potential human trafficking victims, resulting in the analysis of 456K profiles
 * Formulated the REST API and no-code back-end architecture for a website that captures and visualizes worldwide reports on drug trafficking and overdose incidents
-* Individually architected, developed, and documented 80 Python solutions that gathered, cleaned, analyzed, and stored 20M+ records throughout AWS S3, MongoDB, SQL, and CSV files<br /><br /><br />
+* Individually architected, developed, and documented 80 Python solutions that gathered, cleaned, analyzed, and stored 20M+ records throughout AWS S3, MongoDB, SQL, and CSV files<br /><br />
 
 ---
 
@@ -26,7 +26,7 @@ If you want to hire someone with this mindset and skill set, let’s chat!
 | -------- | ------- | ------- | ------- | ------- | ------- | ------- |
 Python <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> |  HTML <img alt="--HTML Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> |  CSS <img alt="--CSS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> |  JavaScript <img alt="--JavaScript Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> |  Java <img alt="--Java Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> |  MATLAB <img alt="--MATLAB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/> | C <img alt="--C Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/> |
 
-<br /><br /><br />
+<br />
 
 ---
 
