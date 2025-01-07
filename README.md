@@ -31,34 +31,15 @@ Python <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="
 ---
 
 ## 📚 Libraries
+|  |  |  |  |  |  |
+| -------- | ------- | ------- | ------- | ------- | ------- |
 Pandas
-<img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
- | NumPy
-<img alt="--NumPy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
- | Plotly
-<img alt="--Plotly Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
- | SQLAlchemy
-<img alt="--SQLAlchemy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>
- | PyMongo
-<img alt="--PyMongo Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
- | FastAPI
-<img alt="--FastAPI Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/><br /><br /><br />
-OpenCV
-<img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
- | TensorFlow
-<img alt="--TensorFlow Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
- | Keras
-<img alt="--Keras Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
- | Scikit-learn
-<img alt="--Scikit-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
- | SciPy
-<img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/>
- | Selenium
-<img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/><br /><br /><br />
-Scrapy
-<img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
- | PySpark
-<img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/><br /><br /><br />
+<img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/> | NumPy <img alt="--NumPy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/> | Plotly <img alt="--Plotly Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/> | SQLAlchemy <img alt="--SQLAlchemy Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/> | PyMongo <img alt="--PyMongo Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/> | FastAPI
+<img alt="--FastAPI Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/> |
+OpenCV <img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/> | TensorFlow <img alt="--TensorFlow Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/> | Keras <img alt="--Keras Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/> | Scikit-learn <img alt="--Scikit-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/> | SciPy <img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/> | Selenium <img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/> |
+Scrapy <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/> | PySpark <img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
+
+<br />
 
 ---
 
@@ -68,7 +49,9 @@ React.js
  | AngularJS
 <img alt="--AngularJS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
 | Express.js
-<img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/><br /><br /><br />
+<img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/>
+
+<br />
 
 ---
 
@@ -80,7 +63,9 @@ MySQL
  | PostgreSQL
 <img alt="--PostgreSQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
  | MongoDB
-<img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/><br /><br /><br />
+<img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+
+<br />
 
 ---
 
@@ -94,7 +79,9 @@ AWS
  | Docker
 <img alt="--Docker Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
  | DigitalOcean
-<img alt="--DigitalOcean Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/><br /><br /><br />
+<img alt="--DigitalOcean Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/>
+
+<br />
 
 ---
 
@@ -110,7 +97,9 @@ Git
  | Postman
 <img alt="--Postman Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
  | JIRA
-<img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/><br /><br /><br />
+<img alt="--JIRA Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
+
+<br />
 
 ---
 
@@ -150,7 +139,9 @@ Data Analysis
 | Figma
 <img alt="--Figma Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 | Zeplin
-<img alt="--Zeplin Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zeplin-icon.png"/><br /><br /><br />
+<img alt="--Zeplin Logo--" width="25px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zeplin-icon.png"/>
+
+<br /><br />
 
 ---
 
