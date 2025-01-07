@@ -37,6 +37,7 @@ Python
   &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  C
 <img alt="--C Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 
+<br />
 ---
 
 ## 📚 Libraries
