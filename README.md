@@ -26,7 +26,7 @@ Python
 <img alt="--Python Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  HTML
 <img alt="--HTML Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  CSS
+  &nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;  CSS
 <img alt="--CSS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  JavaScript
 <img alt="--JavaScript Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
