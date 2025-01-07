@@ -63,8 +63,8 @@ OpenCV
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SciPy
 <img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Selenium
-<img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Scrapy
+<img alt="--Selenium Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/><br /><br /><br />
+Scrapy
 <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PySpark
 <img alt="--PySpark Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
@@ -137,7 +137,7 @@ REST APIs
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NGINX
 <img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/><br /><br /><br />
 Agile
-<img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/9752/9752051.png"/><br /><br /><br />
+<img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/9752/9752051.png"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SCRUM
 <img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/4922/4922590.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CI/CD
@@ -151,7 +151,7 @@ Agile
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Analysis
 <img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/><br /><br /><br />
 MS Office
-<img alt="--MS Office Logo--" width="25px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png"/><br /><br /><br />
+<img alt="--MS Office Logo--" width="25px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Linux
 <img alt="--Linux Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ELT/ETL
