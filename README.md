@@ -51,10 +51,10 @@ Pandas
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyMongo
 <img alt="--PyMongo Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; FastAPI
-<img alt="--FastAPI Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
- &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; OpenCV
-<img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/><br /><br /><br />
-TensorFlow
+<img alt="--FastAPI Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/><br /><br /><br />
+OpenCV
+<img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; TensorFlow
 <img alt="--TensorFlow Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Keras
 <img alt="--Keras Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
@@ -135,10 +135,10 @@ REST APIs
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Machine Learning
 <img alt="--Machine Learning Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2464/2464176.png"/>
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; NGINX
-<img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Agile
+<img alt="--SciPy-Learn Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/><br /><br /><br />
+Agile
 <img alt="--Agile Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/9752/9752051.png"/><br /><br /><br />
-SCRUM
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; SCRUM
 <img alt="--SCRUM Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/4922/4922590.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CI/CD
 <img alt="--CI/CD Logo--" width="25px" style="padding-right:10px;" src="https://www.mabl.com/hs-fs/hubfs/CICDBlog.png?width=536&name=CICDBlog.png"/>
@@ -149,10 +149,10 @@ SCRUM
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Systems Analysis
 <img alt="--Systems Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1443/1443162.png"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Analysis
-<img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; MS Office
+<img alt="--Data Analysis Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4580/4580275.png"/><br /><br /><br />
+MS Office
 <img alt="--MS Office Logo--" width="25px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png"/><br /><br /><br />
-Linux
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Linux
 <img alt="--Linux Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ELT/ETL
 <img alt="--ELT Logo--" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/9850/9850879.png"/>
