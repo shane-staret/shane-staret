@@ -42,8 +42,8 @@ Scrapy <img alt="--Scrapy Logo--" width="25px" style="padding-right:10px;" src="
 ---
 
 ## 🧩 Frameworks
-|  |  |  |  |
-| -------- | ------- | ------- | ------- |
+|  |  |  |
+| -------- | ------- | ------- |
 React.js <img alt="--React.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> | AngularJS <img alt="--AngularJS Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/> | Express.js <img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/> |
 
 <br />
