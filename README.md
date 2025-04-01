@@ -41,8 +41,8 @@ OpenCV <img alt="--OpenCV Logo--" width="25px" style="padding-right:10px;" src="
 ---
 
 ## 🧩 Frameworks
-|  |  |  |
-| -------- | ------- | ------- |
+|  |
+| -------- |
 Express.js <img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/> |
 
 <br />
