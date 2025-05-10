@@ -50,9 +50,9 @@ Express.js <img alt="--Express.js Logo--" width="25px" style="padding-right:10px
 ---
 
 ## 💾 Databases
-|  |  |  |
-| -------- | ------- | ------- |
-MySQL <img alt="--MySQL Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> | MS SQL Server <img alt="--MS SQL Server Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/> | MongoDB <img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/> |
+|  |  |
+| -------- | ------- |
+MS SQL Server <img alt="--MS SQL Server Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/> | MongoDB <img alt="--MongoDB Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/> |
 
 <br />
 
