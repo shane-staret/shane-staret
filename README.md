@@ -43,7 +43,7 @@ Pandas <img alt="--Pandas Logo--" width="25px" style="padding-right:10px;" src="
 ## 🧩 Frameworks
 |  |  |
 | -------- | ------- |
-React.js <img alt="--React.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" | Express.js <img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/> |
+React.js <img alt="--React.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> | Express.js <img alt="--Express.js Logo--" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/> |
 
 <br />
 
